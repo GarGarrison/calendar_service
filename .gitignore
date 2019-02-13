@@ -1,2 +1,4 @@
+/gen-py/*
+/gen-js/*
 __pycache__
 *.pyc
